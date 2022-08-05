@@ -24,7 +24,7 @@ function Header() {
     <nav className={navbar ? "window-scroll" : ""}>
       <div className="container nav__container">
         <Link to="/">
-          <h4>Aamir</h4>
+          <h4>Amir</h4>
         </Link>
         <ul className={`nav__menu ${!showSidebar ? "" : "nav__menu--responsive "}`}>
           <li>
